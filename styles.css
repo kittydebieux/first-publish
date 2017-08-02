@@ -4,13 +4,10 @@ font-size: 100px;
 font-family: courier;
 position: ;
 }
-mySidenav {
-    height: 100%;
-    width: 20;
-    position: fixed;
-    background-color: black;
-    padding-top: 60px;
-    transition: 0.5s;
-    font-family: courier;
+
+  .table-striped > tbody > tr:nth-child(even) > td {
+    background-color: purple;
   }
-  
+  .table-striped > tbody > tr:nth-child(odd) > td {
+     background-color: blue;
+  }
