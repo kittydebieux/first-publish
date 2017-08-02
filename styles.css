@@ -3,6 +3,7 @@ h1 {
 font-size: 100px;
 font-family: courier;
 }
+<<<<<<< HEAD
 <class=text="center">
 mySidenav {
     height: 100%;
@@ -11,3 +12,7 @@ mySidenav {
     padding-top: 60px;
     transition: 0.5s;
     font-family: courier;}
+=======
+
+  
+>>>>>>> origin/master

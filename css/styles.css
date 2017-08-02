@@ -1,0 +1,13 @@
+h1 {
+  color: #e3aad6;
+font-size: 100px;
+font-family: courier;
+position: ;
+}
+
+  .table-striped > tbody > tr:nth-child(even) > td {
+    background-color: purple;
+  }
+  .table-striped > tbody > tr:nth-child(odd) > td {
+     background-color: blue;
+  }
