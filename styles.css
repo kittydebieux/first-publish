@@ -5,9 +5,4 @@ font-family: courier;
 position: ;
 }
 
-  .table-striped > tbody > tr:nth-child(even) > td {
-    background-color: purple;
-  }
-  .table-striped > tbody > tr:nth-child(odd) > td {
-     background-color: blue;
-  }
+  
